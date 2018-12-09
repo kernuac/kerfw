@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/kernuac/kerfw/issues"
   },
-  "homepage": "https://github.com/kernuac/kerfw#readme"
+  "homepage": "https://github.com/kernuac/kerfw#readme",
+  "devDependencies": {
+    "jshint": "^2.9.6"
+  }
 }
